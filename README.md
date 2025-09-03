@@ -60,11 +60,7 @@ java SolarTrackerFirmata
 
 ## 👥 Contributors
 - R. Krishna Kanth  
-- S. Jaswanth  
-- P. Satyaswaroop  
-- G. Om Sai  
-- Ravuri Harsha  
-- Arunesh Bhatt  
+
 
 ---
 
